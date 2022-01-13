@@ -37,6 +37,7 @@ public class TwoArrayUserInput {
         System.out.println(strAr);
         System.out.println(strAr[0]);   // KOR
         System.out.println(strAr[1]);   // USA
+        System.out.println(strAr);
 
         System.out.println("----------------------------------");
         for(int i = 0; i < Row; i++) {
